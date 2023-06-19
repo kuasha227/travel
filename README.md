@@ -1,11 +1,3 @@
-# Travigo Travel Agency by JSSTACK DEVELOPERS
-# Pre-requisites: Nothings! just stuck into this tutorial
-This project is developed and designed by JSSTACK DEVELOPERS (`#ahmed_js 😅🚀🚀🚀`).
-This is a [Vite.js](https://vitejs.dev/) project bootstrapped with [`npm create vite@latest`]. Designed with TailwindCSS!
-# Important Links: 📣📢📣📢📣📢✈✈✈
-### Go to ViteJS [https://vitejs.dev/] (https://vitejs.dev/)!
-### Go to TailwindCSS [https://tailwindcss.com/](https://tailwindcss.com/)!
-
 # Required Packages:
 ```bash
 npm npm create vite@latest
