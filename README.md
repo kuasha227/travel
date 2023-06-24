@@ -28,5 +28,5 @@ Open [http://localhost:5173/](http://localhost:5173/) with your browser to see t
 
 You can start editing the page by modifying `src/App.jsx`. The page auto-updates as you edit the file.
 
-## Deploy on Vercel
-Check out our [This Project On Vercel](https://travelworld-web.netlify.app/) for more details.
+## Deploy on Netlify
+Check out our [This Project On Netlify](https://travelworld-web.netlify.app/) for more details.
